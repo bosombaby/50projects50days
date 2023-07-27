@@ -20,7 +20,6 @@ body {
   width: 90vw;
 }
 
-
 .panel {
   background-size: cover;
   background-position: center;
@@ -56,6 +55,7 @@ body {
   .container {
     width: 100vw;
   }
+
 
   .panel:nth-last-of-type(4),
   .panel:nth-last-of-type(5) {
